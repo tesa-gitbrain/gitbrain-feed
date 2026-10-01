@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Git-Brain: JWST Discoveries</title>
-    <link>https://github.com/<you>/gitbrain-feed</link>
-    <description>Latest JWST images, curated by Git-Brain</description>
-    <atom:link href="FEED_URL" rel="self" type="application/rss+xml"/>
-  </channel>
-</rss>
